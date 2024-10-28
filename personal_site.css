@@ -1,0 +1,90 @@
+.name{
+    color: #81DAE3;
+    position: absolute;
+    top: 170px;
+    left: 35%;
+    font-family: ADLaM Display;
+    font-size: 100px;
+}
+
+.name_1{
+    color: #81DAE3;
+    position: absolute;
+    top: 50%;
+    left: 35%;
+    font-family: ADLaM Display;
+    font-size: 50px;
+}
+
+.name_2{
+    color: #81DAE3;
+    position: absolute;
+    top: 75%;
+    left: 35%;
+    font-size: 25px;
+    width: 700px;
+    font-family: 'Barlow Semi Condensed';
+}
+
+.pic{
+    height: 450px;
+    position: absolute;
+    left: 5%;
+    top: 30%;
+}
+
+.contact_me{
+    position: absolute;
+    left: 47%;
+    border: solid;
+    border-width: 4px;
+    border-radius: 40px;
+    background-color: #ffe1c1;
+    color: #825B32;
+    border-color: #825B32;
+    font-family: 'Barlow Semi Condensed';
+    font-size: 25px;
+    transition: 0.6s;
+    text-decoration: none;
+    padding: 10px;
+}
+.contact_me:hover{
+    position: absolute;
+    left: 46.5%;
+    border: solid;
+    border-width: 4px;
+    border-radius: 10px;
+    background-color: #825B32;
+    color: white;
+    border-color: #825B32;
+    font-family: 'Barlow Semi Condensed';
+    font-size: 28px;
+    transition: 0.6s;
+    text-decoration: none;
+}
+
+.description{
+    color: black;
+    position: absolute;
+    top: 105%;
+    left: 15%;
+    width: 1100px;
+    font-size: 25px;
+    font-family: 'Barlow Semi Condensed';
+}
+
+.pic_2{
+    height: 750px;
+    width: 1517px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+
+.list{
+    position: absolute;
+    top: 120%;
+    left: 14%;
+    font-family: 'Barlow Semi Condensed';
+    font-size: 25px;
+}
